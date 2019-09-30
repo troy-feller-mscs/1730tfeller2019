@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex1d", "tfeller1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex1f", "tfeller1730ex1f\tfeller1730ex1f.csproj", "{B661C55C-6FEB-4DB9-804B-3283CC6A51D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex1g", "tfeller1730ex1g\tfeller1730ex1g.csproj", "{B0B15D79-A3EB-4E90-8C6E-6385B4219C0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B661C55C-6FEB-4DB9-804B-3283CC6A51D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B661C55C-6FEB-4DB9-804B-3283CC6A51D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B661C55C-6FEB-4DB9-804B-3283CC6A51D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B15D79-A3EB-4E90-8C6E-6385B4219C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B15D79-A3EB-4E90-8C6E-6385B4219C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B15D79-A3EB-4E90-8C6E-6385B4219C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B15D79-A3EB-4E90-8C6E-6385B4219C0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

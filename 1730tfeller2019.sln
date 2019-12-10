@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3a", "tfeller1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3aUnitTests", "tfeller1730ex3aUnitTests\tfeller1730ex3aUnitTests.csproj", "{5BB4CD1E-E2E0-457C-87D8-031935D4B65D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3b", "tfeller1730ex3b\tfeller1730ex3b.csproj", "{7FE0BB37-4AEB-45BA-A6E6-40D215DC80B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3bUnitTests", "tfeller1730ex3bUnitTests\tfeller1730ex3bUnitTests.csproj", "{FDE6614B-57BD-4A09-A96B-D32049251B64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{5BB4CD1E-E2E0-457C-87D8-031935D4B65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BB4CD1E-E2E0-457C-87D8-031935D4B65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BB4CD1E-E2E0-457C-87D8-031935D4B65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE0BB37-4AEB-45BA-A6E6-40D215DC80B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE0BB37-4AEB-45BA-A6E6-40D215DC80B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE0BB37-4AEB-45BA-A6E6-40D215DC80B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE0BB37-4AEB-45BA-A6E6-40D215DC80B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE6614B-57BD-4A09-A96B-D32049251B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE6614B-57BD-4A09-A96B-D32049251B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE6614B-57BD-4A09-A96B-D32049251B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE6614B-57BD-4A09-A96B-D32049251B64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

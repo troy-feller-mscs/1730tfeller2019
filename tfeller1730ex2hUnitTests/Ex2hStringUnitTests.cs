@@ -97,3 +97,4 @@ namespace tfeller1730ex2h.Tests
             Assert.AreEqual("aaa, bbb, ccc", Ex2hCalculations.StringCalc10("aaa", "bbb", "ccc"));
         }
     }
+}

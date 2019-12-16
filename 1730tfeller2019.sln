@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3c", "tfeller1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3cUnitTests", "tfeller1730ex3cUnitTests\tfeller1730ex3cUnitTests.csproj", "{0C9B20C7-F706-4E6A-A765-4040E0E5CAE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3d", "tfeller1730ex3d\tfeller1730ex3d.csproj", "{D826C308-B4E5-4916-8C80-A0820D17183B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfeller1730ex3dUnitTests", "tfeller1730ex3dUnitTests\tfeller1730ex3dUnitTests.csproj", "{3930349C-6274-4631-9F46-618B6389CE13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{0C9B20C7-F706-4E6A-A765-4040E0E5CAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C9B20C7-F706-4E6A-A765-4040E0E5CAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C9B20C7-F706-4E6A-A765-4040E0E5CAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D826C308-B4E5-4916-8C80-A0820D17183B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D826C308-B4E5-4916-8C80-A0820D17183B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D826C308-B4E5-4916-8C80-A0820D17183B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D826C308-B4E5-4916-8C80-A0820D17183B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3930349C-6274-4631-9F46-618B6389CE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3930349C-6274-4631-9F46-618B6389CE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3930349C-6274-4631-9F46-618B6389CE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3930349C-6274-4631-9F46-618B6389CE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
